@@ -1,22 +1,21 @@
-# Penetration Testing Notes
+# TryHackMe Linux Penetration Testing Portfolio
 
-This repository contains my hands-on penetration testing practice, focusing on web application security and the OWASP Top 10.
+This repository documents my hands-on penetration testing practice using
+**TryHackMe free rooms**, following a real-world attack methodology.
 
-## Contents
-- OWASP Top 10 vulnerability notes with examples
-- OWASP Juice Shop practical exploitation
-- Burp Suite usage in real testing scenarios
-- IDOR vulnerability deep dives
-- Payloads and remediation techniques
+## Skills Demonstrated
+- Network reconnaissance (Nmap)
+- Web exploitation
+- Linux privilege escalation
+- LinPEAS enumeration
+- GTFOBins exploitation
+- Professional reporting
 
 ## Tools Used
-- Kali Linux
-- Burp Suite Community
-- OWASP Juice Shop
-- Firefox Developer Tools
+- Nmap
+- LinPEAS
+- Burp Suite
+- Netcat
+- GTFOBins
 
-## Objective
-To build practical penetration testing skills and prepare for an entry-level cybersecurity role.
-
-## Disclaimer
-All testing was performed on intentionally vulnerable applications and labs created for learning purposes only.
+> All labs are completed legally on TryHackMe.
